@@ -1,1 +1,1 @@
-# Complex-numbers
+# Polynomial class
