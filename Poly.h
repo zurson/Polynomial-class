@@ -1,5 +1,3 @@
-#ifndef POLY_POLY_H
-#define POLY_POLY_H
 
 #include <iostream>
 #include <cmath>
@@ -284,6 +282,3 @@ inline Poly operator*(double val, const Poly& p1)
 
 	return x;
 }
-
-#endif
-
